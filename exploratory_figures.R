@@ -1,8 +1,5 @@
 # ---------------------------------------------------------------
 library(ggplot2)
-library(dplyr)
-library(tidyr)
-library(scales)
 
 # For CSV files
 muts <- read.csv("https://raw.githubusercontent.com/sgomezguti/yeast_evolution/refs/heads/main/mutations_clean.csv")
